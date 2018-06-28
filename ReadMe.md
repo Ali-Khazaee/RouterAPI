@@ -4,7 +4,7 @@ PHP Client API for RouterOS ( Mikrotik )
 ## Sample
 
 ```php
-require('RouterOS.php');
+require('RouterAPI.php');
 
 $API = new RouterAPI();
 
